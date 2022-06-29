@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Proyecto</string>
+    <string name="nameApp">NEWPET</string>
+    <string name="edtEmail">Correo:</string>
+    <string name="edtPass">Contraseña:</string>
+    <string name="edtName">Nombre y Apellidos:</string>
+    <string name="edtPhone">Celular:</string>
+    <string name="edtUser">Usuario:</string>
+    <string name="btnLogin">Ingresar</string>
+    <string name="btnBuscar">Buscar</string>
+    <string name="txtOlvidastePass">¿Olvidaste tu contraseña?</string>
+    <string name="txtIniciar">Iniciar Sesión</string>
+    <string name="btnRegistrar">Registrar</string>
+    <string name="btnRestablecer">Enviar</string>
+    <string name="txtRegistrar">Registrar Cuenta</string>
+    <string name="txtRestablecer">Restablecer Contraseña</string>
+    <string name="tvNamePet">Baloo</string>
+    <string name="tvRacePet">Cruzado Pitbull</string>
+    <string name="tvAgePet">2 años</string>
+    <string name="dialogTitle">Advertencia</string>
+
+    <!-- Activity Adopción -->
+    <string name="txtAdopcion">Registrar Adopción</string>
+    <string name="edtMascota">Nombre de la Mascota:</string>
+    <string name="edtRaza">Raza:</string>
+    <string name="edtEdad">Edad:</string>
+    <string name="edtTipo">Tipo Mascota:</string>
+    <string name="edtDistrito">Distrito:</string>
+    <string name="edtDescripcion">Descripción:</string>
+
+    <!-- Activity Usuario y Activity Contacto -->
+    <string name="txtTituloUsuario">Información del Usuario</string>
+    <string name="txtTituloContacto">Información de Contacto</string>
+    <string name="txtNombre">Nombre:</string>
+    <string name="txtCelular">Celular:</string>
+    <string name="txtCorreo">Correo:</string>
+    <string name="txtCantAdopcion">Cantidad de Adopciones Realizadas:</string>
+    <string name="btnContactarUsu">Contactar</string>
+    <string name="btnRegresar">Regresar</string>
+
+    <!-- Activity Mascota -->
+    <string name="txtTituloMascota">Información de Mascota</string>
+    <string name="btnContactar">Contactar</string>
+    <string name="txtEdadMascota">Edad de la Mascota:</string>
+    <string name="btnInfoUsuario">Ver Información del Usuario</string>
+
+</resources>
